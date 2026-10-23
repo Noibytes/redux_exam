@@ -1,0 +1,9 @@
+body {
+  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/049/406/963/small/white-3d-floral-design-on-textured-white-background-photo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
